@@ -289,5 +289,14 @@
       "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787746936.684555,
+    "completed_at": 1787746939.517003,
+    "comments": [
+      "Answer for Which are the new values in staged files? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
